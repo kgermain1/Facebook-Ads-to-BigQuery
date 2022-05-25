@@ -1,6 +1,6 @@
 # Facebook-Ads-to-BigQuery
 
-Script meant to be run in Google cloud functions, used to pull ads insights data fromthe Facebook API.
+Script meant to be run in Google cloud functions, used to pull ads insights data from the Facebook API.
 The script pulls the last day of available data by default.
 
 It makes use of the Facebook Business SDK library.
